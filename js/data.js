@@ -17,6 +17,8 @@ $(document).ready(function(){
         var txt=$('#southzone').text();
         createzone(txt);
     });
+    
+    $("#first").modal();
 
 });
 
